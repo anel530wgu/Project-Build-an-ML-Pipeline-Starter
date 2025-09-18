@@ -1,7 +1,8 @@
 import pytest
 import pandas as pd
 import wandb
-
+import os
+os.environ['WANDB_ASSUME_DESCENDED_PATHS_EXIST'] = 'true'
 
 def pytest_addoption(parser):
     parser.addoption("--csv", action="store")
