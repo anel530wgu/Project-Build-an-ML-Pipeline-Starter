@@ -10,6 +10,10 @@ In this project you will build such a pipeline.
 
 https://wandb.ai/anel530-western-governors-university/nyc_airbnb/overview
 
+
+## Github Link
+
+https://github.com/anel530wgu/Project-Build-an-ML-Pipeline-Starter
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
